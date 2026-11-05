@@ -142,5 +142,12 @@ Crea el ViewModel:
 
 
 
+app 
+<img width="452" height="1065" alt="image" src="https://github.com/user-attachments/assets/e313eb27-c4cb-411e-af14-3d4a3f385a99" />
+
+
+
+
+
 
 
