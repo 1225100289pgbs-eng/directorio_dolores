@@ -148,6 +148,7 @@ app
 
 
 
-
+agregar 
+<img width="470" height="1030" alt="image" src="https://github.com/user-attachments/assets/dfaf00ae-cd91-4973-ba7b-781000997e1e" />
 
 
